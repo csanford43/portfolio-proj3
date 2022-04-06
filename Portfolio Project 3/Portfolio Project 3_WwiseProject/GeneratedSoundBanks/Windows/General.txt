@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	417627684	PlayMusic			\Default Work Unit\PlayMusic	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	444794257	Environments	C:\Users\fuzzy\source\repos\portfolio-proj3\Portfolio Project 3\Portfolio Project 3_WwiseProject\.cache\Windows\SFX\Environments_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environments		17640064
+
