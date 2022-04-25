@@ -33,11 +33,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - BottomLine: 0.524
-    - Metallic: 0.468
-    - Smoothness: 0.6
-    - TopLine: 0.515
+    - BottomLine: 0.452
+    - HighVolume: 48
+    - LowVolume: 48
+    - Metallic: 0.822
+    - MidVolume: 48
+    - Smoothness: 0.643
+    - TopLine: 0.605
     - Transparency: 0.737
+    - Volume: 1
     m_Colors:
     - BaseColor: {r: 2.9858398, g: 0.62044847, b: 0, a: 1}
     - BottomColor: {r: 1.6055588, g: 0, b: 0, a: 1}

@@ -13,8 +13,15 @@ namespace AK
 {
     namespace EVENTS
     {
-        static const AkUniqueID PLAYMUSIC = 417627684U;
+        static const AkUniqueID PLAY_ALLPARTS = 2306306679U;
     } // namespace EVENTS
+
+    namespace GAME_PARAMETERS
+    {
+        static const AkUniqueID BOTTOMCOLOR = 3477909581U;
+        static const AkUniqueID COLOR = 2954315994U;
+        static const AkUniqueID TOPCOLOR = 4184728123U;
+    } // namespace GAME_PARAMETERS
 
     namespace BANKS
     {
@@ -24,7 +31,10 @@ namespace AK
 
     namespace BUSSES
     {
+        static const AkUniqueID HIGH = 3550808449U;
+        static const AkUniqueID LOW = 545371365U;
         static const AkUniqueID MASTER_AUDIO_BUS = 3803692087U;
+        static const AkUniqueID MID = 1182670505U;
     } // namespace BUSSES
 
     namespace AUDIO_DEVICES

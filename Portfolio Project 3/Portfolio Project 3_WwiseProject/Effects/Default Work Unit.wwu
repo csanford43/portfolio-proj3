@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{A8596907-0ACB-411F-A240-8E7D5E0FFD5A}" SchemaVersion="103">
 	<Effects>
-		<WorkUnit Name="Default Work Unit" ID="{A8596907-0ACB-411F-A240-8E7D5E0FFD5A}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{A8596907-0ACB-411F-A240-8E7D5E0FFD5A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="New_Wwise_Meter" ID="{486AA6D8-00B5-4E11-8CD1-AE9CDF20A206}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+	<GameParameter Name="Color" ID="{760CBAF5-093C-4026-B66A-93190DDB1291}"/>
+</PluginData>
+				</Effect>
+				<Effect Name="Low_Wwise_Meter" ID="{C910D98C-B7C2-46FC-80EB-397A12452083}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+	<GameParameter Name="BottomColor" ID="{F69DD348-8B7E-467A-BB9C-F1DD5F592DBF}"/>
+</PluginData>
+				</Effect>
+				<Effect Name="Mid_Wwise_Meter" ID="{9F7F5C69-F183-40EB-AC76-B31BA92E72B7}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+	<GameParameter Name="Color" ID="{760CBAF5-093C-4026-B66A-93190DDB1291}"/>
+</PluginData>
+				</Effect>
+				<Effect Name="High_Wwise_Meter" ID="{526B300D-2183-4416-92A3-C6A66279D143}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+	<GameParameter Name="TopColor" ID="{22BDD97C-3943-43D8-89E6-FB240C90A8CE}"/>
+</PluginData>
+				</Effect>
+			</ChildrenList>
+		</WorkUnit>
 	</Effects>
 </WwiseDocument>

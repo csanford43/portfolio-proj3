@@ -1,6 +1,8 @@
 Event	ID	Name			Wwise Object Path	Notes
-	417627684	PlayMusic			\Default Work Unit\PlayMusic	
+	2306306679	Play_AllParts			\Default Work Unit\Play_AllParts	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	444794257	Environments	C:\Users\fuzzy\source\repos\portfolio-proj3\Portfolio Project 3\Portfolio Project 3_WwiseProject\.cache\Mac\SFX\Environments_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environments		17640064
+	339176097	Environments_High	C:\Users\fuzzy\source\repos\portfolio-proj3\Portfolio Project 3\Portfolio Project 3_WwiseProject\.cache\Mac\SFX\Environments_High_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Parts\Environments_High		19051264
+	368833224	Environments_Mid	C:\Users\fuzzy\source\repos\portfolio-proj3\Portfolio Project 3\Portfolio Project 3_WwiseProject\.cache\Mac\SFX\Environments_Mid_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Parts\Environments_Mid		19051264
+	433021976	Environments_Low	C:\Users\fuzzy\source\repos\portfolio-proj3\Portfolio Project 3\Portfolio Project 3_WwiseProject\.cache\Mac\SFX\Environments_Low_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Parts\Environments_Low		19051264
 

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8abe1a7ec27a07c41827fe46aad022f1, type: 3}
+  m_Name: 6AE201BB-6658-4236-A800-06BB357316E3
+  m_EditorClassIdentifier: 
+  objectName: PlayAll
+  id: 1820532916
+  guid: 6AE201BB-6658-4236-A800-06BB357316E3

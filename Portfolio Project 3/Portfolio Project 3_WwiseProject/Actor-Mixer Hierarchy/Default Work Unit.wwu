@@ -26,6 +26,194 @@
 						<ActiveSource Name="Environments" ID="{2974FCF6-502C-4832-9E35-C91A31F9E8D1}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="Bedroom" ID="{3CBF5F19-1715-4062-BE43-E23152CFCD17}" ShortID="977624542">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{79829C5D-CF41-4FA5-BD29-ACAE837A4BDD}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3C3AF5BE-8754-4526-A244-1C9E341BF2DC}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Bedroom" ID="{5E033347-6828-44D6-BB8E-8FFDBD142677}">
+							<Language>SFX</Language>
+							<AudioFile>Bedroom.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="300738456"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Bedroom" ID="{5E033347-6828-44D6-BB8E-8FFDBD142677}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="City_NoBrass" ID="{38AE78BB-CC28-4D74-A09B-E4D1DDC238C3}" ShortID="180295431">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{79829C5D-CF41-4FA5-BD29-ACAE837A4BDD}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3C3AF5BE-8754-4526-A244-1C9E341BF2DC}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="City_NoBrass" ID="{14431580-7A31-4095-BDE0-24A26B346648}">
+							<Language>SFX</Language>
+							<AudioFile>City_NoBrass.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="329999041"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="City_NoBrass" ID="{14431580-7A31-4095-BDE0-24A26B346648}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="City2" ID="{8DD59344-AB7E-4F1F-8F11-651126533305}" ShortID="979370024">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{79829C5D-CF41-4FA5-BD29-ACAE837A4BDD}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3C3AF5BE-8754-4526-A244-1C9E341BF2DC}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="City2" ID="{E5B1258E-B2A4-4175-A179-FAD5EF86C87F}">
+							<Language>SFX</Language>
+							<AudioFile>City2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="709069069"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="City2" ID="{E5B1258E-B2A4-4175-A179-FAD5EF86C87F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Environments_NoMusic2" ID="{B851EC46-A4D5-4F78-B19A-47CE05853C83}" ShortID="310445330">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{79829C5D-CF41-4FA5-BD29-ACAE837A4BDD}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3C3AF5BE-8754-4526-A244-1C9E341BF2DC}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Environments_NoMusic2" ID="{F66F30CC-E091-41BC-9F09-091FFF39A042}">
+							<Language>SFX</Language>
+							<AudioFile>Environments_NoMusic2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="885488257"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Environments_NoMusic2" ID="{F66F30CC-E091-41BC-9F09-091FFF39A042}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Outdoors2" ID="{8E931AC3-2567-4715-8522-2F0CF9886981}" ShortID="218960369">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{79829C5D-CF41-4FA5-BD29-ACAE837A4BDD}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3C3AF5BE-8754-4526-A244-1C9E341BF2DC}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Outdoors2" ID="{B5458378-6C34-41E7-9C29-C3584489F21B}">
+							<Language>SFX</Language>
+							<AudioFile>Outdoors2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="271770485"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Outdoors2" ID="{B5458378-6C34-41E7-9C29-C3584489F21B}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Folder Name="Parts" ID="{87A40563-41C3-4AE8-81D5-3E26BDD42812}" ShortID="940316730">
+					<ChildrenList>
+						<Sound Name="Environments_High" ID="{6375B391-D4DC-4409-ACD6-000795F65965}" ShortID="693570132">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{79829C5D-CF41-4FA5-BD29-ACAE837A4BDD}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="High" ID="{A6AFF3A3-70A1-425E-951A-9B15369F6D39}" WorkUnitID="{3C3AF5BE-8754-4526-A244-1C9E341BF2DC}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Environments_High" ID="{676B0A46-2DFE-4EB2-BA81-4E55E3820E2C}">
+									<Language>SFX</Language>
+									<AudioFile>Environments_High.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="339176097"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="Environments_High" ID="{676B0A46-2DFE-4EB2-BA81-4E55E3820E2C}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Environments_Low" ID="{7604E045-DC9B-47D3-A833-F573B620BEC3}" ShortID="456186114">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{79829C5D-CF41-4FA5-BD29-ACAE837A4BDD}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Low" ID="{9B0EA4CF-F03C-4639-BBC2-56870B976EBA}" WorkUnitID="{3C3AF5BE-8754-4526-A244-1C9E341BF2DC}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Environments_Low" ID="{B7E1E73D-CB37-4B92-A107-D28D2182F1DA}">
+									<Language>SFX</Language>
+									<AudioFile>Environments_Low.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="433021976"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="Environments_Low" ID="{B7E1E73D-CB37-4B92-A107-D28D2182F1DA}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Environments_Mid" ID="{13F0FC59-CE51-4A33-BF2D-E88BB820965A}" ShortID="193140081">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{79829C5D-CF41-4FA5-BD29-ACAE837A4BDD}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Mid" ID="{64620D53-84B0-494E-BB6D-F993C4FF2286}" WorkUnitID="{3C3AF5BE-8754-4526-A244-1C9E341BF2DC}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Environments_Mid" ID="{01A0ABFB-60D6-4D84-B240-28834EDFBB1B}">
+									<Language>SFX</Language>
+									<AudioFile>Environments_Mid.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="368833224"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="Environments_Mid" ID="{01A0ABFB-60D6-4D84-B240-28834EDFBB1B}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

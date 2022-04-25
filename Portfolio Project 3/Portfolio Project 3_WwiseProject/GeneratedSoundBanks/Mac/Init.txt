@@ -1,5 +1,13 @@
 Audio Bus	ID	Name			Wwise Object Path	Notes
+	545371365	Low			\Default Work Unit\Master Audio Bus\Low	
+	1182670505	Mid			\Default Work Unit\Master Audio Bus\Mid	
+	3550808449	High			\Default Work Unit\Master Audio Bus\High	
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1867182737	Mid_Wwise_Meter	Wwise Meter			
+	3396024137	High_Wwise_Meter	Wwise Meter			
+	4290840853	Low_Wwise_Meter	Wwise Meter			
 
 Audio Devices	ID	Name	Type				Notes
 	2317455096	No_Output	No Output			

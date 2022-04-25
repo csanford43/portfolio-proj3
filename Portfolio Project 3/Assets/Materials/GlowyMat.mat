@@ -33,12 +33,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - BottomLine: 0.663
-    - Metallic: 0.534
-    - Smoothness: 0.235
-    - TopLine: 0.722
+    - BottomLine: 0.497
+    - HighVolume: 48
+    - LowVolume: 48
+    - Metallic: 0.445
+    - MidVolume: 48
+    - Smoothness: 0.446
+    - TopLine: 0.662
+    - Volume: 0.5966077
     m_Colors:
     - BaseColor: {r: 0, g: 2.1074555, b: 2.1185474, a: 1}
     - BottomColor: {r: 0.8406067, g: 0, b: 1.6055588, a: 1}
-    - TopColor: {r: 0, g: 0.22267066, b: 1.4614502, a: 1}
+    - TopColor: {r: 0, g: 0.19972152, b: 1.39772, a: 1}
   m_BuildTextureStacks: []

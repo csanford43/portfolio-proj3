@@ -9,6 +9,32 @@
 							<ObjectRef Name="System" ID="{24E2BB90-80DF-4B16-8578-6B2B970A9428}" WorkUnitID="{20AC4610-8A99-414B-9E60-1C5BA10192B5}"/>
 						</Reference>
 					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="Low" ID="{9B0EA4CF-F03C-4639-BBC2-56870B976EBA}">
+							<ReferenceList>
+								<Reference Name="Effect0" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">
+									<ObjectRef Name="Low_Wwise_Meter" ID="{C910D98C-B7C2-46FC-80EB-397A12452083}" WorkUnitID="{A8596907-0ACB-411F-A240-8E7D5E0FFD5A}"/>
+								</Reference>
+							</ReferenceList>
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="Mid" ID="{64620D53-84B0-494E-BB6D-F993C4FF2286}">
+							<ReferenceList>
+								<Reference Name="Effect0" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">
+									<ObjectRef Name="Mid_Wwise_Meter" ID="{9F7F5C69-F183-40EB-AC76-B31BA92E72B7}" WorkUnitID="{A8596907-0ACB-411F-A240-8E7D5E0FFD5A}"/>
+								</Reference>
+							</ReferenceList>
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="High" ID="{A6AFF3A3-70A1-425E-951A-9B15369F6D39}">
+							<ReferenceList>
+								<Reference Name="Effect0" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">
+									<ObjectRef Name="High_Wwise_Meter" ID="{526B300D-2183-4416-92A3-C6A66279D143}" WorkUnitID="{A8596907-0ACB-411F-A240-8E7D5E0FFD5A}"/>
+								</Reference>
+							</ReferenceList>
+							<ObjectLists/>
+						</Bus>
+					</ChildrenList>
 					<ObjectLists/>
 				</Bus>
 			</ChildrenList>

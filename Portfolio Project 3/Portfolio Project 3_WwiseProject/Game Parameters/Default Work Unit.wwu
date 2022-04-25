@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{945029AB-EAC9-409B-ADFE-70411C772F7E}" SchemaVersion="103">
 	<GameParameters>
-		<WorkUnit Name="Default Work Unit" ID="{945029AB-EAC9-409B-ADFE-70411C772F7E}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{945029AB-EAC9-409B-ADFE-70411C772F7E}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Color" ID="{760CBAF5-093C-4026-B66A-93190DDB1291}"/>
+				<GameParameter Name="TopColor" ID="{22BDD97C-3943-43D8-89E6-FB240C90A8CE}"/>
+				<GameParameter Name="BottomColor" ID="{F69DD348-8B7E-467A-BB9C-F1DD5F592DBF}"/>
+			</ChildrenList>
+		</WorkUnit>
 	</GameParameters>
 </WwiseDocument>
