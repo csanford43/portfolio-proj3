@@ -5,14 +5,7 @@
 			<ChildrenList>
 				<SoundBank Name="General" ID="{FF4DB80D-0D59-44DD-B20A-054311D6BA59}">
 					<ObjectInclusionList>
-						<ObjectRef Name="PlayAll" ID="{6AE201BB-6658-4236-A800-06BB357316E3}" WorkUnitID="{8E570908-5399-4B18-97A2-BD0035080EB7}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="Play_Bedroom" ID="{1F1B38B8-5B30-42E7-9DE8-790B7C4A4E4A}" WorkUnitID="{8E570908-5399-4B18-97A2-BD0035080EB7}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="Play_City_NoBrass" ID="{5A52429E-8BCC-4335-B385-7D383CD87812}" WorkUnitID="{8E570908-5399-4B18-97A2-BD0035080EB7}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="Play_Environments_NoMusic2" ID="{BD1C06A4-26EC-4359-868A-900241851403}" WorkUnitID="{8E570908-5399-4B18-97A2-BD0035080EB7}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="PlayMusic" ID="{2A20A4DD-1846-4413-BDA2-AC25B744FF87}" WorkUnitID="{8E570908-5399-4B18-97A2-BD0035080EB7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_AllParts" ID="{76331EE3-FF51-4763-AAC8-F7B0B8417568}" WorkUnitID="{8E570908-5399-4B18-97A2-BD0035080EB7}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="Play_Outdoors2" ID="{D93B0FFD-4945-49B1-A72B-79C2FF72FDFD}" WorkUnitID="{8E570908-5399-4B18-97A2-BD0035080EB7}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="Play_City2" ID="{7D3A3F47-C7C7-4DE0-B853-BC01E2F206C0}" WorkUnitID="{8E570908-5399-4B18-97A2-BD0035080EB7}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
