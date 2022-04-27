@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: GlowyMat
-  m_Shader: {fileID: -6465566751694194690, guid: d111386c8d2f1884f88c7b8854953026, type: 3}
+  m_Name: SoundGlowyMat2
+  m_Shader: {fileID: -6465566751694194690, guid: e95ebffbaa118fc40bd5a690778b87d6, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -33,16 +33,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - BottomLine: 0.497
-    - HighVolume: 48
-    - LowVolume: 48
-    - Metallic: 0.445
-    - MidVolume: 48
-    - Smoothness: 0.446
-    - TopLine: 0.662
+    - BottomLine: 0.694
+    - HighVolume: 0
+    - LowVolume: 0
+    - Metallic: 0.751
+    - MidVolume: 0
+    - Smoothness: 0.203
+    - TopLine: 0.72
     - Volume: 0.5966077
     m_Colors:
-    - BaseColor: {r: 0, g: 2.1074555, b: 2.1185474, a: 1}
-    - BottomColor: {r: 0.8406067, g: 0, b: 1.6055588, a: 1}
-    - TopColor: {r: 0, g: 0.19972152, b: 1.39772, a: 1}
+    - BaseColor: {r: 1.9517084, g: 0.54500544, b: 1.0762339, a: 1}
+    - BottomColor: {r: 0.27168506, g: 0, b: 0.081877634, a: 1}
+    - TopColor: {r: 2.9632857, g: 0, b: 1.7107686, a: 1}
   m_BuildTextureStacks: []

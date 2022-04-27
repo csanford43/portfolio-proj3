@@ -19,9 +19,9 @@ public class CrystalScript : MonoBehaviour
     {
         foreach (Material mat in materials)
         {
-            mat.SetFloat(propertyNames[0], (wwisePropertys[0].GetGlobalValue() + 48f)); // low
-            mat.SetFloat(propertyNames[1], (wwisePropertys[1].GetGlobalValue() + 48f)); // mid
-            mat.SetFloat(propertyNames[2], (wwisePropertys[2].GetGlobalValue() + 48f)); // high
+            mat.SetFloat(propertyNames[0], (wwisePropertys[0].GetGlobalValue() + 48f)); // low part
+            mat.SetFloat(propertyNames[1], (wwisePropertys[1].GetGlobalValue() + 48f)); // mid part
+            mat.SetFloat(propertyNames[2], (wwisePropertys[2].GetGlobalValue() + 48f)); // high part
         }
     }
 }
